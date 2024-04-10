@@ -1,5 +1,5 @@
-- ### 👋 Hi, I’m Abubakar Siddique. I am doing BSCS from FAST-NU (Final Year). 
-- ### 👀 I’m interested in Web Development (FrontEnd, BackEnd), Data Science
+#### 👋 Hi, I’m Abubakar Siddique. I am doing BSCS from FAST-NU (Final Year) <br>
+#### 👀 I’m interested in Web Development (FrontEnd, BackEnd), Data Science <br>
 Languages: C++, C#, Python <br>
 Database: SQL, Oracle 11g, PostgreSQL <br>
 Web Framework: ASP.NET CORE, MVC <br>
